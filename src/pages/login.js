@@ -1,5 +1,5 @@
 import Stack from "@mui/material/Stack";
-import { Button, Card, TextField, Typography } from "@mui/material";
+import { Button, TextField, Typography } from "@mui/material";
 import { useState } from "react";
 import { useLogin, useNotify } from "react-admin";
 
